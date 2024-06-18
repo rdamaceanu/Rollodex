@@ -1,2 +1,2 @@
-# Rollodex
-simple rollodex application
+# Rolodex
+simple rolodex application
